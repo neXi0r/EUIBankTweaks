@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: EUI Bank Tweaks
+## Notes: Configurable Bank and Warband Bank grid for EllesmereUI.
+## Author: neXi0r
+## Version: 1.0.0
+## Dependencies: EllesmereUIBags
+## SavedVariables: EUIBankTweaksDB
+## X-Website: https://github.com/neXi0r/EUIBankTweaks
+
+EUIBankTweaks.lua
