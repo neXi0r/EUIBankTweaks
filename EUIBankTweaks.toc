@@ -2,7 +2,7 @@
 ## Title: EUI Bank Tweaks
 ## Notes: Configurable Bank and Warband Bank grid for EllesmereUI.
 ## Author: neXi0r
-## Version: 1.0.0
+## Version: 1.1.0
 ## Dependencies: EllesmereUIBags
 ## SavedVariables: EUIBankTweaksDB
 ## X-Website: https://github.com/neXi0r/EUIBankTweaks
